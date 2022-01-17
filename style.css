@@ -1,0 +1,14 @@
+#navbar {
+    display:flex;
+    flex-direction: column;
+    position: fixed;
+
+}
+
+
+@media (max-width: 768px) {
+    body {
+        background-color: grey;
+    }
+    
+}
